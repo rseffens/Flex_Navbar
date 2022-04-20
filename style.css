@@ -1,0 +1,26 @@
+.nav {
+    width: 800px;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    }
+.nav-title {
+    text-align: left;
+    margin-right: 200px;
+    
+}
+.nav-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+ul {
+    list-style-type: none;
+}
+li {
+    margin-right: 20px;
+}
+.btn {
+    background-color: darkcyan;
+    color: white;
+}
